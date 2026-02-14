@@ -47,5 +47,10 @@ This project performs Exploratory Data Analysis (EDA) on the Red Wine Quality da
 ## Conclusion
 EDA helped in understanding the structure and key influencing factors of wine quality, which can be useful for building predictive models in future.
 
+## 👤 Author
+
+**Mohd Umair**  
+📧 [ua2910998@gmail.com](mailto:ua2910998@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/mohd-umair-658a7135b) | [GitHub](https://github.com/umair1459)
 ---
 ⭐ If you like this project, feel free to star the repository!
